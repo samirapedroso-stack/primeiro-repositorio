@@ -1,6 +1,14 @@
 body {
-    background-color: rgb(0, 229, 255);
-    color: rgb(0, 0, 183);
+    background-color: rgb(0, 229, 255); /* cor de fundo */
+    color: rgb(0, 0, 183); /* cor da letra */
+    margin: 0px; /* espaço antes da borda */
+}
+
+header {
+    border-bottom: solid 2px white;
+    padding: 25px; /* espaçamento depois da borda e antes do conteúdo */
+    font-size: 32px;
+    color: azure;                                     
 }
 
 h1 {
