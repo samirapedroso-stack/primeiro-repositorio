@@ -3,6 +3,7 @@ body {
     color:azure; /*cor da letra */
     margin: 0px; /* espaço antes da borda */
     font-family: "Playfair+Display", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -31,8 +32,7 @@ h1 {
 p {
     color: aqua;
     font-size: 16px; 
-
-    }
+   }
 
 .categoria-videos {
     display: flex;
